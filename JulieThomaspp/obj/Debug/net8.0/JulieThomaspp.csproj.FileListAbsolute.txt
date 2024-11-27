@@ -1,0 +1,15 @@
+/home/th/github/JulieThomasPP/JulieThomaspp/bin/Debug/net8.0/JulieThomaspp
+/home/th/github/JulieThomasPP/JulieThomaspp/bin/Debug/net8.0/JulieThomaspp.deps.json
+/home/th/github/JulieThomasPP/JulieThomaspp/bin/Debug/net8.0/JulieThomaspp.runtimeconfig.json
+/home/th/github/JulieThomasPP/JulieThomaspp/bin/Debug/net8.0/JulieThomaspp.dll
+/home/th/github/JulieThomasPP/JulieThomaspp/bin/Debug/net8.0/JulieThomaspp.pdb
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.AssemblyInfoInputs.cache
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.AssemblyInfo.cs
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.csproj.CoreCompileInputs.cache
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.sourcelink.json
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.dll
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/refint/JulieThomaspp.dll
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.pdb
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/JulieThomaspp.genruntimeconfig.cache
+/home/th/github/JulieThomasPP/JulieThomaspp/obj/Debug/net8.0/ref/JulieThomaspp.dll

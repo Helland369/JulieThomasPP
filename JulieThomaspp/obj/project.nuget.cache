@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXZejKJiv/Fj25pLXkcmQMJsd+HgS7IQWAi5mPuuGJMczJEmuBDhtptzUt2Hya5ieQziWNAhdNRPvxi0W/w9Bg==",
+  "success": true,
+  "projectFilePath": "/home/th/github/JulieThomasPP/JulieThomaspp/JulieThomaspp.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
