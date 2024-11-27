@@ -8,8 +8,32 @@ class Program {
 
     static void Main() {
 
-        Dyr dyr1 = new Dyr("Per", 30);
+        Dyr dyr1 = new Dyr("Per", 30, "Gul", "Elefant");
+        Dyr dyr2 = new Dyr("Bolla", 67, "Brun", "Piggsvin");
+        Dyr dyr3 = new Dyr("Petrine", 4, "Hvit og sort", "Hest");
 
-        dyr1.meny();
+        Console.WriteLine("Hei! Velg et dyr du ønsker å henge med");
+        Console.WriteLine("1. Per\n2. Bolla\n3. Petrine");
+        var chosenAnimal = Console.ReadLine();
+
+        switch (chosenAnimal)
+        {
+            case "1":
+                dyr1.meny();
+                break;
+            case "2":
+                dyr2.meny();
+                break;
+            case "3":
+                dyr3.meny();
+                break;
+            default:
+                Console.WriteLine("Du valgte ikke et dyr, ta dæ sammen");
+                Thread.Sleep(500);
+                Main();
+                break;
+        }
+
+        
     }
 }

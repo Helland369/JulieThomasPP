@@ -9,28 +9,37 @@ class Dyr {
 
     private string name = "Navn";
     private int age = 123;
+    private string colour = "Blå";
+    private string type = "Rhinosorous";
+
+
     private int hunger = 5;
     private int gåpådo = 5;
     private int kose = 5;
 
-    public Dyr(string name, int age) {
+    public Dyr(string name, int age, string colour, string type) {
         this.name = name;
         this.age = age;
+        this.colour = colour;
+        this.type = type;
     }
 
     void mat() {
         Console.WriteLine("Må er jeg mett :D");
         hunger++;
+        Thread.Sleep(500);
     }
 
     void kos() {
         Console.WriteLine("Nå har jeg fått nokk kos!");
         kose++;
-    }
+        Thread.Sleep(500);
+        }
 
-    void endo() {
+        void endo() {
         Console.WriteLine("Nå har jeg tåmt ryggen!");
         gåpådo++;
+        Thread.Sleep(500);
     }
 
     public void meny() {
@@ -42,13 +51,14 @@ class Dyr {
 
             Console.WriteLine($"Navn: {name}");
             Console.WriteLine($"Hunger: {hunger}");
-            Console.WriteLine($"Do: {gåpådo}");
             Console.WriteLine($"Kos: {kose}");
+            Console.WriteLine($"Do: {gåpådo}");
 
 
-            Console.WriteLine("1. mat dyret");
-            Console.WriteLine("2. kos dyret");
-            Console.WriteLine("3. gå på do");
+
+            Console.WriteLine("1. Mat dyret");
+            Console.WriteLine("2. Kos dyret");
+            Console.WriteLine("3. Gå på do");
             x = Convert.ToInt32(Console.ReadLine());
 
             switch (x) {
